@@ -43,11 +43,13 @@ This plugin follows these security practices:
 ## Scope
 
 This security policy applies to:
+
 - The Block Select plugin code
 - Build scripts and dependencies
 - Documentation that affects security
 
 Out of scope:
+
 - Obsidian app itself (report to Obsidian team)
 - Third-party plugins
 - Operating system vulnerabilities
