@@ -1,7 +1,7 @@
 {
 	"id": "block-select",
 	"name": "Block Select",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Smart text selection for headers. Click the text icon beside any header to select all content until the next header of the same level.",
 	"author": "Gray Adams",
